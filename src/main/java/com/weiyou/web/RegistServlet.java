@@ -12,6 +12,7 @@ public class RegistServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("被访问啦");
+        System.out.println("被访问啦");
     }
 
     @Override
