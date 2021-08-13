@@ -1,7 +1,7 @@
-package com.weiyou.web;
+package com.qvyou.web;
 
-import com.weiyou.pojo.User;
-import com.weiyou.service.impl.UserServiceImpl;
+import com.qvyou.pojo.User;
+import com.qvyou.service.impl.UserServiceImpl;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

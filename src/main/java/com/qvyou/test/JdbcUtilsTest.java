@@ -1,6 +1,6 @@
-package com.weiyou.test;
+package com.qvyou.test;
 
-import com.weiyou.utils.JdbcUtils;
+import com.qvyou.utils.JdbcUtils;
 
 public class JdbcUtilsTest {
     public static void main(String[] args) {

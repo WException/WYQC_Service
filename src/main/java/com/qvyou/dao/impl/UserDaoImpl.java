@@ -1,8 +1,8 @@
-package com.weiyou.dao.impl;
+package com.qvyou.dao.impl;
 
-import com.weiyou.dao.UserDao;
-import com.weiyou.pojo.User;
-import com.weiyou.utils.JdbcUtils;
+import com.qvyou.dao.UserDao;
+import com.qvyou.pojo.User;
+import com.qvyou.utils.JdbcUtils;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

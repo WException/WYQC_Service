@@ -1,4 +1,4 @@
-package com.weiyou.pojo;
+package com.qvyou.pojo;
 
 public class User {
     private int id;

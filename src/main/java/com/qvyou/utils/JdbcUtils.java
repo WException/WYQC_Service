@@ -1,4 +1,4 @@
-package com.weiyou.utils;
+package com.qvyou.utils;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

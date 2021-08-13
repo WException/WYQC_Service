@@ -1,4 +1,4 @@
-//package weiyou.test;
+package com.qvyou.test;//package weiyou.test;
 //
 //import com.weiyou.dao.impl.UserDaoImpl;
 //import com.weiyou.pojo.User;

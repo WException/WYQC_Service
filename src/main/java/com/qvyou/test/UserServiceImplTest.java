@@ -1,7 +1,7 @@
-package com.weiyou.test;
+package com.qvyou.test;
 
-import com.weiyou.pojo.User;
-import com.weiyou.service.impl.UserServiceImpl;
+import com.qvyou.pojo.User;
+import com.qvyou.service.impl.UserServiceImpl;
 
 public class UserServiceImplTest {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package com.weiyou.dao;
+package com.qvyou.dao;
 
-import com.weiyou.pojo.User;
+import com.qvyou.pojo.User;
 
 import java.util.List;
 

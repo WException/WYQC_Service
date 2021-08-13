@@ -1,4 +1,4 @@
-package com.weiyou.web;
+package com.qvyou.web;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

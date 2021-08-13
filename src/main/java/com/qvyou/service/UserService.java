@@ -1,6 +1,6 @@
-package com.weiyou.service;
+package com.qvyou.service;
 
-import com.weiyou.pojo.User;
+import com.qvyou.pojo.User;
 
 public interface UserService {
     /**

@@ -1,9 +1,9 @@
-package com.weiyou.service.impl;
+package com.qvyou.service.impl;
 
-import com.weiyou.dao.UserDao;
-import com.weiyou.dao.impl.UserDaoImpl;
-import com.weiyou.pojo.User;
-import com.weiyou.service.UserService;
+import com.qvyou.dao.UserDao;
+import com.qvyou.dao.impl.UserDaoImpl;
+import com.qvyou.pojo.User;
+import com.qvyou.service.UserService;
 
 public class UserServiceImpl implements UserService {
     private UserDao dao = new UserDaoImpl();
